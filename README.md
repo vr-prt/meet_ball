@@ -9,7 +9,7 @@ Meet-Ball comes with a ranking system that allows users of the application to pl
 
 Back-End: Ruby on Rails
 
-Front-End: Stimulus JS
+Front-End: Stimulus JS, SASS
 
 APIs: Google Maps Javascript API, Places API, DistanceMatrix
 
